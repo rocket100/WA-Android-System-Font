@@ -1,7 +1,7 @@
 id=WA-Emoji-Font
 name=WhatsApp Emoji Font as Android System Font
-version=2.23.2.72
-versionCode=20230525
+version=2.24.8.85-1
+versionCode=20240513
 author=rocket100
 description=WhatsApp Emoji Font as Magisk Module - Source https://github.com/dmlls/whatsapp-emoji-linux
 updateJson=https://raw.githubusercontent.com/rocket100/WA-Android-System-Font/main/update.json
